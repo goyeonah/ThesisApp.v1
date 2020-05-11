@@ -1,0 +1,97 @@
+/* Add mobile styles for the component here.  */
+
+.password-login-button {
+    color: #000000;
+    background-color: #F5F5F5;
+    width: 400px;
+    height: 200px;
+    padding: 10px 31px 10px 31px;
+    border-width: 3px;
+}
+
+.admin-label {
+    margin-left: 60%;
+    font-size: 20px;
+    color: #000000;margin-bottom: 20px;
+}
+
+.logo {
+    margin-top: 400px;
+    margin-left: 25%;
+}
+
+.input {
+    border-radius: 3;
+    border-width: 1;
+    border-color: #ddd;
+}
+
+.input.ng-invalid.ng-touched {
+    border-color: red;
+    color: red;
+}
+
+.input-error {
+    width: 90%;
+    color: red;
+}
+
+Label {
+    padding-bottom: 10px;
+}
+
+.module-section-title {
+    color: #AEAEAE;
+    font-size: 12px;
+    font-family: Open Sans, Semibold, serif;
+    horizontal-align: left;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.readings {
+    font-size: 10px;
+}
+
+.text-center {
+    font-weight: bold;
+}
+
+.table-head {
+    background-color: black;
+    color: #F5F5F5;
+    font-size: 12%;
+}
+.odd {
+    background-color: #F5F5F5;
+    color: black;
+    font-size: 12%;
+}
+
+.even {
+    background-color: #EFEFEF;
+    font-size: 12%;
+}
+.history-box {
+    /* width: 100%; */
+    margin-top: 10;
+}
+.history-item {
+    background-color: whitesmoke;
+    color: black;
+    padding: 10 0;
+    width: 100%;
+}
+.hb-col {
+    width: 20%;
+    align-self: center;
+    text-align: center;
+}
+.history-item.history-date {
+    background-color: ghostwhite;
+    color: black;
+    border-bottom-width: 1;
+    border-bottom-color: #ddd;
+}
