@@ -1,0 +1,4 @@
+C:\Users\ACER\Desktop\checkHealth-master\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\ACER\Desktop\checkHealth-master\platforms\android\app\src\main\assets\app\runtime.js
+C:\Users\ACER\Desktop\checkHealth-master\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Users\ACER\Desktop\checkHealth-master\platforms\android\app\src\main\assets\app\vendor.js

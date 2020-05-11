@@ -1,0 +1,15 @@
+{
+	"nativescript-downloader": {
+		"C:\\Users\\ACER\\Desktop\\checkHealth-master\\node_modules\\nativescript-downloader\\platforms\\android\\.DS_Store": "df2fbeb1400acda0909a32c1cf6bf492f1121e07",
+		"C:\\Users\\ACER\\Desktop\\checkHealth-master\\node_modules\\nativescript-downloader\\platforms\\android\\include.gradle": "8c2478a884f837702a59a6bce997aa745f0c703d"
+	},
+	"nativescript-local-notifications": {
+		"C:\\Users\\ACER\\Desktop\\checkHealth-master\\node_modules\\nativescript-local-notifications\\platforms\\android\\app-release.aar": "93367f8d74ee7c473d9637eca5b07ba3c501a511"
+	},
+	"nativescript-pdf-view": {
+		"C:\\Users\\ACER\\Desktop\\checkHealth-master\\node_modules\\nativescript-pdf-view\\platforms\\android\\include.gradle": "0c24bf040c43c3b6270ca7e26f4b21d12853ad3d"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\ACER\\Desktop\\checkHealth-master\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "01064688a1e264dbd37d2853e42b7979a6a5d149"
+	}
+}
